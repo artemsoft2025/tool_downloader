@@ -1,0 +1,9 @@
+https://www.7-zip.org/a/7z2501-x64.exe
+https://download.videolan.org/pub/videolan/vlc/3.0.21/win64/vlc-3.0.21-win64.exe
+https://dl4.topfiles.net/files/2/61/141804/K1IrOTUJMhVCSGVHMVFkL2tYdmd0NEVrcCtseU5IWEZvcjRWOG5SQ25KeklpZz06OgHrkqheP_Z8gmeWjO54HC4/paintnet-x64_5.1.9.exe
+https://www.faststonesoft.net/DN/FSViewerSetup81.exe
+https://dl.comss.org/download/AnyDesk.exe
+https://dl.google.com/chrome/install/chrome_installer.exe
+https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe
+https://privazer.com/PrivaZer.exe
+#https://preset.myoffice-app.ru/MyOfficeStandardHomeEdition.msi
